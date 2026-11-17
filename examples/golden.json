@@ -1,0 +1,16 @@
+[
+  {"question": "How many days of paid leave do I get?", "relevant": ["leave-policy.txt"]},
+  {"question": "Who approves an expense above five thousand?", "relevant": ["expense-policy.txt"]},
+  {"question": "What happens in a new joiner's first two weeks?", "relevant": ["onboarding.txt"]},
+  {"question": "How do we review defects and root causes?", "relevant": ["quality-gates.txt"]},
+  {"question": "Do I need a medical certificate for sick leave?", "relevant": ["leave-policy.txt"]},
+  {"question": "What do I do with a phishing email?", "relevant": ["security.txt"]},
+  {"question": "How long can a mother stay off work after a baby arrives?", "relevant": ["leave-policy.txt"]},
+  {"question": "At what price does my boss have to sign off before I buy something?", "relevant": ["expense-policy.txt"]},
+  {"question": "Is there someone assigned to help me settle in when I start?", "relevant": ["onboarding.txt"]},
+  {"question": "Why do we keep fixing the same mistakes in deliverables?", "relevant": ["quality-gates.txt"]},
+  {"question": "Can I keep customer documents on my own drive?", "relevant": ["security.txt"]},
+  {"question": "What should my laptop settings look like?", "relevant": ["security.txt"]},
+  {"question": "Which rules cover both reimbursement and booking trips?", "relevant": ["expense-policy.txt"]},
+  {"question": "When does my first formal check-in happen?", "relevant": ["onboarding.txt"]}
+]

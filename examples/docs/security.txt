@@ -1,0 +1,1 @@
+Laptops must use full disk encryption and automatic screen lock after five minutes. Client files may only be stored in the approved document system. Suspected phishing emails are reported to the security mailbox immediately. Passwords are managed with the company password manager and multi factor authentication is mandatory for all accounts.
